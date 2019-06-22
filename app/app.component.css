@@ -1,0 +1,13 @@
+#chatlogs{
+ display: block; 
+ height: 450px;
+ overflow-y: scroll;
+}
+
+#msg{
+    display: block;
+    background-color: darkgrey;
+    margin-bottom: 5%
+
+
+}
